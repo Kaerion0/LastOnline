@@ -3,8 +3,8 @@
  * @author Kaerion
  * @version 1.0.0
  * @description Показывает под никнеймом когда в последний раз были в сети. Работает только для друзей
- * @source https://github.com/Kaerion/BetterDiscordPlugins
- * @updateUrl https://raw.githubusercontent.com/Kaerion/BetterDiscordPlugins/main/LastOnline.plugin.js
+ * @source https://github.com/Kaerion0/LastOnline
+ * @updateUrl https://raw.githubusercontent.com/Kaerion0/LastOnline/LastOnline.plugin.js
  */
 
 module.exports = (_ => {
