@@ -5,6 +5,9 @@
  * @description Показывает под никнеймом когда в последний раз были в сети. Работает только для друзей
  * @source https://github.com/Kaerion0/LastOnline
  * @updateUrl https://raw.githubusercontent.com/Kaerion0/LastOnline/refs/heads/main/LastOnline.plugin.js
+ * @changelog
+ * 1.0.1
+ * тестовое обновление
  */
 
 module.exports = (_ => {
